@@ -1,4 +1,4 @@
-Bem vindos ao meu github :D
+Bem vindos ao meu github
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Tubagao&show_icons=true&theme=midnight-purple"/>
